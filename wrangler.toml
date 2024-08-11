@@ -5,16 +5,16 @@ name = "id1" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "id1.aqsram.biz.id"
+pattern = "id2.aqsram.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.id1.aqsram.biz.id"
+pattern = "ava.game.naver.com.id2.aqsram.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.id1.aqsram.biz.id"
+pattern = "quiz.int.vidio.com.id2.aqsram.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "investor.fb.com.id1.aqsram.biz.id"
+pattern = "investor.fb.com.id2.aqsram.biz.id"
 custom_domain = true
 
 [vars]
